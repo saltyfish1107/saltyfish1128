@@ -75,7 +75,7 @@ Well, do I have [the website for you][another fun place]!
  * A professor 
  * Has no hair 
  * Often wears green
-* Castafiore*
+* Castafiore
  * An opera singer
  * Has white hair
  * Is possibly mentally unwell
